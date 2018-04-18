@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <node name="minecraft" description="Minecraft Server" tags="" hostname="netbyte.org:2266" osArch="amd64" osFamily="unix" osName="Linux" osVersion="4.13.1-1.el7.elrepo.x86_64" username="minecraft"/>
+</project>
